@@ -15,7 +15,6 @@ public class July_14_2019{
 			a++;
 		    }
 
-
 		int sum = 0;
 		for(int b = 0; b < 11; b++){
 			sum = sum + b;
@@ -29,7 +28,6 @@ public class July_14_2019{
 		    a2++;
 		    }
 		System.out.println(sum2);
-
 
 		for(int c = 0; c < 101; c++) {
 			if(c % 2 ==0){

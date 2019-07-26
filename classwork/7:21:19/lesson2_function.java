@@ -11,7 +11,7 @@ public class lesson2_function{
 
 
   public static int sumOfNums(int a , int b){
-    //doesn't have to be int, can be float, double
+    //doesn't have to be int, can be float, double, void
     int total = 0;
     for(int i = a; i < b; i++){
       total +=i;
@@ -29,7 +29,7 @@ public class lesson2_function{
     //can use b anywhere inside the function, but ONLY THE FUNCTION
 
     //replace i < 10 with b, so we all know b = 9 because we defined it above
-    //
+
 
   }
 

@@ -72,6 +72,8 @@ public class lesson2{
       intArr3[i] = i*2;
     }
     System.out.println()
+    for (int i = 0; i < arr2.length; i ++) {
+			System.out.println(arr2[i]);
 
 
 

@@ -34,7 +34,7 @@ public class lesson3{
 
                                 };
 
-    //System.out.println(grid[2][1]);
+    System.out.println(grid[2][1]);
 
     //row(2) then column(1)
 

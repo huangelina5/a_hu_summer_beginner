@@ -34,7 +34,11 @@ class student{
   }
 
   public void addCourseGrade(String course, int grade){
-    
 
+
+  }
+
+  public void printGrades(){
+    System.out.println("name " + course1 + ":" + )
   }
 }
